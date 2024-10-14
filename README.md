@@ -1,2 +1,2 @@
-# Scientific-Graphic-Calculator
-Creating the Scientific Graphic Calculator in Google Colab and Deploying the Calculator using Streamlit.
+# MFA Simple-Calculator
+Creating the Simple Calculator in Google Colab and Deploying the Calculator using Streamlit.
